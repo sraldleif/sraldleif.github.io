@@ -1,9 +1,46 @@
 /* Custom CSS */
-.mainTitle {
+#mainTitle {
 	text-align: center;
 }
 
 .navbar-default {
 	text-align: center;
 	margin: auto;
+	margin-bottom: 1%;
+}
+
+#mainPanel {
+	width: 80%;
+	margin:auto;
+	border-style: none;
+	margin-top: -2em;
+	box-shadow: none;
+}
+
+#topPanel {
+	text-align: center;
+	margin: auto;
+	width: 60%;
+}
+
+#leftPanel {
+	border-style: solid;
+	border-width: 1px;
+	float: left;
+	width: 49.5%;
+}
+
+#rightPanel {
+	border-style: solid;
+	border-width: 1px;
+	float: right;
+	width: 49.5%;
+}
+
+.title {
+	text-align: center;
+}
+
+.glyphicon {
+	color: #B7B7B7;
 }
