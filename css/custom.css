@@ -2,3 +2,8 @@
 .mainTitle {
 	text-align: center;
 }
+
+.navbar navbar-default {
+	text-align: center;
+	margin: auto;
+}
